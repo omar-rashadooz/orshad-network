@@ -1,0 +1,10 @@
+body {
+    background-color: #0d1117;
+    color: #58a6ff;
+    font-family: monospace;
+    padding: 20px;
+}
+h1 {
+    color: #1f6feb;
+    border-bottom: 1px solid #30363d;
+}
